@@ -12,3 +12,4 @@ int main()
     sPaddle.setPosition(300,440);
 
     Sprite block[1000];
+   int n=0;}

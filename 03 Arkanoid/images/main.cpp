@@ -8,3 +8,7 @@ int main()
 
     RenderWindow app(VideoMode(520, 450), "Arkanoid!");
     app.setFramerateLimit(60);
+ Sprite sBackground(t2), sBall(t3), sPaddle(t4);
+    sPaddle.setPosition(300,440);
+
+    Sprite block[1000];

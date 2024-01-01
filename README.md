@@ -9,10 +9,13 @@ This repository contains the source code for a classic Arkanoid game. The game i
 
 ## 💻 Implementation
 The game is implemented in C++, utilizing the power of object-oriented programming. The code is organized into several classes, each representing a different element of the game such as the paddle, the ball, and the bricks.
+## 🔧Installation
+To install the game, follow these steps:
 
-## 🐧 Linux Compatibility
-This game is designed to be compatible with Linux-based operating systems, including Ubuntu. It leverages the cross-platform capabilities of C++ and has been tested on both Ubuntu and Linux.
+1. Clone the repository: `git clone https://github.com/yourusername/arknoid-cpp.git`
+2. Navigate to the project directory: `cd arknoid-cpp`
+3. Compile the game using a C++ compiler: `g++ -o Arknoid main.cpp`
 
-## 🚀 How to Run
+## 🛡️ Usage
+To play the game, simply run the compiled executable: `./Arknoid`
 
-Feel free to explore the code, raise issues, and submit pull requests. Let's bring this classic game to life with the power of C++! 🚀

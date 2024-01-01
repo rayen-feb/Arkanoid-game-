@@ -1,4 +1,5 @@
 # 🕹️ Arkanoid Game in C++ 👾
+![download](https://github.com/rayen-feb/Arkanoid-game-/assets/131598929/e45f7ea1-625d-4938-b4f4-de03d26f781f)
 
 Welcome to my Arkanoid game project, implemented in C++! This game is designed to work on both Ubuntu and Linux.
 
